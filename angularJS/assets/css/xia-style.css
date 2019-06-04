@@ -1,0 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+.navbar-custom .navbar-brand {
+	font-weight: 700;
+	font-size: 22px;
+	font-family: 'Indie Flower', cursive;
+}
